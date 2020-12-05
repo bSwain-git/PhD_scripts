@@ -1,4 +1,5 @@
 sce <- readRDS('sce_final.rds')
+set.seed(1811)
 library(tidyverse)
 library(scater)
 
